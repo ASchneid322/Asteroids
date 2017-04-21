@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids1.0", "Asteroids1.0\Asteroids1.0.csproj", "{829CAE45-A3FA-4C83-820E-7F604E1E1632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlInterface", "ControlInterface\ControlInterface.csproj", "{B50773D7-6B8F-49D2-9E2C-9D3840F3DC02}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829CAE45-A3FA-4C83-820E-7F604E1E1632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829CAE45-A3FA-4C83-820E-7F604E1E1632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829CAE45-A3FA-4C83-820E-7F604E1E1632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829CAE45-A3FA-4C83-820E-7F604E1E1632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50773D7-6B8F-49D2-9E2C-9D3840F3DC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50773D7-6B8F-49D2-9E2C-9D3840F3DC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50773D7-6B8F-49D2-9E2C-9D3840F3DC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50773D7-6B8F-49D2-9E2C-9D3840F3DC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
